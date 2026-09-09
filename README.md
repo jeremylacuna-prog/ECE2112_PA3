@@ -1,5 +1,5 @@
 # **ECE2112_PA3**
-**Jeremy Rafael G. Lacuna | 2ECE-C**
+**Jeremy Rafael G. Lacuna | 2ECE-C** <br>
 *This repository contains three programming problems which covers **Module 3 - Pandas**.* <br>
 <br>
 **Objectives:**
@@ -162,4 +162,4 @@ To view and test the code:
 **README File Version History:**
 
 ```September 10, 2026``` - README.md output uploaded. <br>
-```September 10, 2026``` - Fixed wrong date in ```README File Version History```. <br>
+```September 10, 2026``` - Fixed wrong date in ```README File Version History```. Formatting edit was made <br>
